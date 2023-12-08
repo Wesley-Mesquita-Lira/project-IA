@@ -5,6 +5,7 @@ O código tem como objetivo automatizar a forma que é feita a frequência em sa
 utilizando a inteligência artificial do Facebook "Detectron2".
 O arquivo nomeado como "código_final" pode ser utilizado por outras pessoas,claro que será necessário 
 fazer modificações em algumas linhas do código.
+Já o arquivo desenvolvimento contém alguns erros pois foi usado durante os testes.
 O data set utilizado nesse projeto pode ser encontrado aqui: https://github.com/cassiomatos92/data
 
 
